@@ -1,0 +1,17 @@
+h1 {
+	text-align: center;
+}
+.ThisPage {
+	text-align: center;
+}
+
+.nav-link {
+	color: black;
+}
+body {
+	background-image: url(9.jpg);
+	background-size: cover; 
+}
+p {
+	text-align: center;
+}
